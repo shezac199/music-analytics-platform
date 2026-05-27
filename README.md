@@ -21,7 +21,7 @@ This platform solves that by:
 
 ## Architecture Overview
 
-![Architecture Diagram](docs/architecture.png)
+![Architecture Diagram](docs/High-Level-Architecture.png)
 
 ---
 
